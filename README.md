@@ -9,6 +9,7 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 - Shell script
 - Fortran90 (Of course :))
 - COBOL (Sully missing atm)
+- Nadeshiko (Only Colleen atm, best language for true anime fans)
 
 ## Trivia
 
@@ -30,11 +31,11 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 ### Grace
 
 - 1 comment
-- No main explicitely function declared
+- No main function explicitely declared
 - 3 macros/defines
 
 ### Sully
 
-- Quine with creates other quines, compiles them and execute them
-- A i variable decreasing on every child quine the sully quine creates
+- Quine which creates other quines, compiles them and execute them
+- An i variable decreasing on every child quine the sully quine creates
 - Not executed if i isn't strictly positive
