@@ -11,6 +11,24 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 - COBOL (Sully missing atm)
 - Nadeshiko (Only Colleen atm, best language for true anime fans)
 
+## How to use
+
+### C, Fortran90 and COBOL
+
+Compile the quines with `make` and execute them.
+
+### PHP
+
+`php [quine.php]`
+
+### Shell script
+
+`sh [quine.sh]`
+
+### Nadeshiko
+
+`cnako3 [quine.nako]`
+
 ## Trivia
 
 - The f90 "Sullyplus" quine purpose was only to get "Fortran" displayed on my github page
