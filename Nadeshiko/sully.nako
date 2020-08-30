@@ -1,0 +1,3 @@
+iは5
+第一は●()
+Bは『「echo 'iは{i-1}{改行}第一は●()' > Sully_{i-1}.nako」を起動』。Cは『「echo '。“iは{i-1}。”&Bをナデシコする。{CHR(0x300C)}echo -n {CHR(0x0022)}Bは{CHR(0x300E)}{CHR(0x007B)}B{CHR(0x007D)}{CHR(0x300F)}。Cは{CHR(0x300E)}{CHR(0x007B)}C{CHR(0x007D)}{CHR(0x300F)}{CHR(0x0022)} >> Sully_{CHR(0x007B)}i-1{CHR(0x007D)}.nako{CHR(0x300D)}を起動。“iは{i-1}。”&Cをナデシコする。ここまで。もし、(i>0)ならば、第一()' >> Sully_{i-1}.nako; cnako3 Sully_{i-1}.nako」を起動』。“iは5。”&Bをナデシコする。「echo -n "Bは『{B}』。Cは『{C}』" >> Sully_{i-1}.nako」を起動。“iは5。”&Cをナデシコする。ここまで。もし、(i>0)ならば、第一()

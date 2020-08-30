@@ -307,3 +307,7 @@ This one was especially difficult since there is no documented function to creat
 Contains 3 anonymous functions (since Nadeshiko doesn't have macros)
 
 ## Sully
+
+I additionaly use the 2-bytes quotes here, note that this quine in nadeshiko has 2 issues :
+- Does not create a Sully_5.nako file
+- Since `ナデシコする` variable expansions are local scope, I had to write `i=5` 3 times (once for the original variable, and twice for the B and C eval strings

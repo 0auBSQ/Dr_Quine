@@ -9,7 +9,7 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 - Shell script
 - Fortran90 (Of course :))
 - COBOL (Sully missing)
-- Nadeshiko (Sully missing, best language for true anime fans)
+- Nadeshiko (Best language for true anime fans)
 
 ## How to use
 
