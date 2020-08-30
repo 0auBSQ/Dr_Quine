@@ -8,8 +8,8 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 - PHP
 - Shell script
 - Fortran90 (Of course :))
-- COBOL (Sully missing atm)
-- Nadeshiko (Only Colleen atm, best language for true anime fans)
+- COBOL (Sully missing)
+- Nadeshiko (Sully missing, best language for true anime fans)
 
 ## How to use
 

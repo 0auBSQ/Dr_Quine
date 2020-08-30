@@ -278,7 +278,7 @@ https://nadesi.com/v3/doc/index.php?%E5%91%BD%E4%BB%A4%E4%B8%80%E8%A6%A7%2F%E6%A
 JavaScript integration :
 ```
 JS{{{console.log("こんにちは")}}}
-# All code inside the JS{{{...}}} tag have to be pure js, so no japanase brackets (「」)
+# All code inside the JS{{{...}}} tag have to be pure js, so no japanese brackets (「」)
 ```
 Import module :
 ```
@@ -292,5 +292,18 @@ Import module :
 With the `ナデシコする` call, I evaluate strings with non-expand quotes, I write them directly with the `CHR()` call and the `『』` unicode values
 
 ## Grace
+
+All the interesting unicode chars :
+```
+# {CHR(0x300E)} 『
+# {CHR(0x300F)} 』
+# {CHR(0x300C)} 「
+# {CHR(0x300D)} 」
+# {CHR(0x0022)} ""
+# {CHR(0x007B)} {
+# {CHR(0x007D)} }
+```
+This one was especially difficult since there is no documented function to create a file in Nadeshiko, I had to use a system call (`起動`)
+Contains 3 anonymous functions (since Nadeshiko doesn't have macros)
 
 ## Sully
