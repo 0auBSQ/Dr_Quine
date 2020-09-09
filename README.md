@@ -5,6 +5,7 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 ## Languages featured
 
 - C (Mandatory)
+- ASM (Mandatory, only Colleen for now)
 - PHP
 - Shell script
 - Fortran90 (Of course :))
@@ -13,7 +14,7 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 
 ## How to use
 
-### C, Fortran90 and COBOL
+### C, ASM, Fortran90 and COBOL
 
 Compile the quines with `make` and execute them.
 
