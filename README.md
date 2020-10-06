@@ -5,7 +5,7 @@ My old (original) repo : https://github.com/rmarracc/Dr_quine
 ## Languages featured
 
 - C (Mandatory)
-- ASM (Mandatory, only Colleen for now)
+- ASM (Mandatory)
 - PHP
 - Shell script
 - Fortran90 (Of course :))
