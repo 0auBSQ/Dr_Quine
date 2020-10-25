@@ -1,5 +1,11 @@
 # Assembly Quines
 
+## Important note
+
+If your gcc version uses the `-enable-default-pie` flag, check the `ASM_NO_PIE` folder.
+
+You can check it with `gcc -v`.
+
 ## Notes
 
 - Those quines are made for Linux 64 bits systems and use the -felf64 nasm flag
